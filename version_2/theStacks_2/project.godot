@@ -22,9 +22,12 @@ Dialogic="*res://addons/dialogic/Core/DialogicGameHandler.gd"
 [dialogic]
 
 directories/dch_directory={
+"oldman": "res://Dialogic/Characters/oldman.dch",
 "player": "res://Dialogic/Characters/player.dch"
 }
 directories/dtl_directory={
+"oldman_scene": "res://Assets/Pictures/oldman_scene.dtl",
+"scene1": "res://Dialogic/scene1.dtl",
 "timeline": "res://Dialogic/timeline.dtl"
 }
 layout/style_list=["res://Dialogic/Styles/Default_Style.tres"]

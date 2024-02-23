@@ -57,7 +57,8 @@ overrides = {
 script = ExtResource("10_a1akc")
 name = "Default_Style"
 base_overrides = {
-"global_font": "\"res://Assets/TooMuchInk.ttf\""
+"global_font": "\"res://Assets/TooMuchInk.ttf\"",
+"global_font_size": "20.0"
 }
 layers = Array[ExtResource("2_axroj")]([SubResource("Resource_421q4"), SubResource("Resource_0rcmq"), SubResource("Resource_mgcqv"), SubResource("Resource_o3eqt"), SubResource("Resource_8cgtr"), SubResource("Resource_rhemf"), SubResource("Resource_l1rxj"), SubResource("Resource_uqbw4")])
-metadata/_latest_layer = 5
+metadata/_latest_layer = -1

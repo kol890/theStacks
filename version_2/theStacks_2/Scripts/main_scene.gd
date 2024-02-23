@@ -3,7 +3,7 @@ extends Node2D
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
-	Dialogic.timeline_ended.connect(ended)
+	Dialogic.timeline_ended.connect(prologue_ended)
 	Dialogic.start("timeline")
 	pass # Replace with function body.
 
@@ -12,6 +12,12 @@ func _ready():
 func _process(delta):
 	pass
 
-func ended():
-	Dialogic.timeline_ended.disconnect(ended)
+func prologue_ended():
+	Dialogic.timeline_ended.disconnect(prologue_ended)
+	Dialogic.timeline_ended.connect(scene1_ended)
+	Dialogic.start("scene1")
+	#get_tree().quit()
+	
+func scene1_ended():
+	Dialogic.timeline_ended.disconnect(scene1_ended)
 	get_tree().quit()
