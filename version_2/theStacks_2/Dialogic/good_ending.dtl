@@ -1,0 +1,16 @@
+[background arg="res://Assets/Pictures/IMG_0882.jpeg" fade="0.0"]
+[sound path="res://Assets/Audio/Door_squeeky_2.wav" volume="0.0"]
+[wait time="1.0"]
+player: It worked...
+[background arg="res://Assets/Pictures/black-background.png" fade="0.0"]
+[sound path="res://Assets/Audio/Footsteps_ running.wav" volume="0.0"]
+player: I'm getting out of here!
+[music path="res://Assets/Audio/Distorted Roar.mp3" fade="5.0" volume="-5.0"]
+[wait time="3.0"]
+Congrats, you made it out alive!
+Unlike that poor old man you selfishly left to die...
+Its safe to say you'd never be stepping foot inside Butler again...
+[background arg="res://Assets/Pictures/IMG_0835.jpeg" fade="0.0"]
+[sound path="res://Assets/Audio/Monster_Roar_4.wav" volume="3.0"]
+Though, its looming presence would haunt you each and everyday...
+[wait time="8.0"]

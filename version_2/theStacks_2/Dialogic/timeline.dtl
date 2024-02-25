@@ -1,3 +1,4 @@
+[music path="res://Assets/Audio/Air conditioner_Ambient.wav" fade="0.0" volume="0.0"]
 [background arg="res://Assets/Pictures/IMG_0870.jpeg" fade="1.0"]
 set {time} = 257
 join player 1
@@ -12,7 +13,6 @@ My eyes are drooping... Should I try to finish my essay or go home?
 	[end_timeline]
 - Finish it
 player: Okay, I got this.
-*insert typing game, waiting for laptop asset
 [background arg="res://Assets/Pictures/black-background.png" fade="2.0"]
 [background arg="res://Assets/Pictures/IMG_0870.jpeg" fade="2.0"]
 Oh no...

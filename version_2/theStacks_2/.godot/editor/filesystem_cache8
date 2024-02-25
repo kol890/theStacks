@@ -1,8 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1708725874
+::res://::1708841667
+badending.dtl::Resource::-1::1708727597::0::1::::<><>::
 icon.svg::CompressedTexture2D::2994995389195448235::1708657960::1708657960::1::::<><>::
 README.md::TextFile::-1::1708657960::0::1::::<><>::
-badending.dtl::Resource::-1::1708725874::0::1::::<><>::
 TitleScreen.gd::GDScript::-1::1708657960::0::1::::<>Control<>::
 ::res://addons/::1708657960
 ::res://addons/dialogic/::1708657960
@@ -585,12 +585,13 @@ Distorted Roar.mp3::AudioStreamMP3::418780188549387104::1708657960::1708657960::
 HelpMe.ttf::FontFile::1441510468829098171::1708657960::1708657960::1::::<><>::
 temp_oldman.png::CompressedTexture2D::7570374865599766217::1627835838::1708667478::1::::<><>::
 TooMuchInk.ttf::FontFile::6021335297293924039::1708657960::1708657960::1::::<><>::
-::res://Assets/Audio/::1708726158
+::res://Assets/Audio/::1708840115
 Air conditioner_Ambient.wav::AudioStreamWAV::6890454693455411736::1661022972::1708725073::1::::<><>::
 Butler Nightmare Main Theme.mp3::AudioStreamMP3::1691515449019704041::1708657960::1708657960::1::::<><>::
 Crying_moaning_ambience_2.wav::AudioStreamWAV::79175430075593012::1670338890::1708725073::1::::<><>::
 Distorted Roar.mp3::AudioStreamMP3::121605453581382908::1708657960::1708657960::1::::<><>::
 Door_handle_jiggle_checking if locked.wav::AudioStreamWAV::2327869174971782919::1670337414::1708725073::1::::<><>::
+Door_squeeky_2.wav::AudioStreamWAV::7157916534700523491::1677439896::1708840115::1::::<><>::
 Footsteps_ running.wav::AudioStreamWAV::521324345062121755::1662771762::1708725073::1::::<><>::
 Footsteps_walking.wav::AudioStreamWAV::4147404443953781462::1662771798::1708725073::1::::<><>::
 Metal_tapping.wav::AudioStreamWAV::4854163163171543179::1661526748::1708725073::1::::<><>::
@@ -603,9 +604,10 @@ Suspenseful pitch increase.wav::AudioStreamWAV::3062892062339849622::1695576740:
 Tap_reverb.wav::AudioStreamWAV::3074386570604657103::1678392040::1708725073::1::::<><>::
 Tone_Moaning_Deep_3.wav::AudioStreamWAV::2596560286085157196::1687741940::1708725073::1::::<><>::
 Typing.wav::AudioStreamWAV::8389533547053500426::1661786124::1708725073::1::::<><>::
-::res://Assets/Pictures/::1708725604
+::res://Assets/Pictures/::1708840834
 1921-lion-columbia-mascot.jpg::CompressedTexture2D::752698062172890453::1708725599::1708725601::1::::<><>::
 black-background.png::CompressedTexture2D::61363666981381615::1708657960::1708657960::1::::<><>::
+IMG_0050.jpeg::CompressedTexture2D::625232108914317854::1708840822::1708840834::1::::<><>::
 IMG_0835.jpeg::CompressedTexture2D::1220528230757087532::1708657960::1708657960::1::::<><>::
 IMG_0870.jpeg::CompressedTexture2D::9021718225341426245::1708657960::1708657960::1::::<><>::
 IMG_0871.jpeg::CompressedTexture2D::4657098113188654937::1708657960::1708657960::1::::<><>::
@@ -626,20 +628,21 @@ IMG_0891.jpeg::CompressedTexture2D::6458642324588800543::1708657960::1708657960:
 IMG_0892.jpeg::CompressedTexture2D::6774648751652577915::1708657960::1708657960::1::::<><>::
 IMG_0893.jpeg::CompressedTexture2D::6323746116692727061::1708657960::1708657960::1::::<><>::
 IMG_9455.jpeg::CompressedTexture2D::7279321114770793662::1708657960::1708657960::1::::<><>::
-oldman_scene.dtl::Resource::-1::1708669704::0::1::::<><>::
+oldman_scene.dtl::Resource::-1::1708840442::0::1::::<><>::
 Screenshot 2024-02-23 at 4.59.54 PM.png::CompressedTexture2D::2036120292474231158::1708725597::1708725601::1::::<><>::
-::res://Dialogic/::1708666950
-scene1.dtl::Resource::-1::1708666950::0::1::::<><>::
-timeline.dtl::Resource::-1::1708661761::0::1::::<><>::
-::res://Dialogic/Characters/::1708725696
-oldman.dch::Resource::-1::1708724140::0::1::::<><>::
-player.dch::Resource::-1::1708668882::0::1::::<><>::
-roaree.dch::Resource::-1::1708725696::0::1::::<><>::
-::res://Dialogic/Styles/::1708723385
-Default_Style.tres::Resource/DialogicStyle::6577490214744633363::1708723385::0::1::::<><>::uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://cy1y14inwkplb::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://bquja8jyk8kbr::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
+::res://Dialogic/::1708841595
+good_ending.dtl::Resource::-1::1708841595::0::1::::<><>::
+scene1.dtl::Resource::-1::1708840159::0::1::::<><>::
+timeline.dtl::Resource::-1::1708840304::0::1::::<><>::
+::res://Dialogic/Characters/::1708841638
+oldman.dch::Resource::-1::1708840547::0::1::::<><>::
+player.dch::Resource::-1::1708840549::0::1::::<><>::
+roaree.dch::Resource::-1::1708841638::0::1::::<><>::
+::res://Dialogic/Styles/::1708838199
+Default_Style.tres::Resource/DialogicStyle::6577490214744633363::1708838199::0::1::::<><>::uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://cy1y14inwkplb::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://bquja8jyk8kbr::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
 Style_test.tres::Resource/Resource::8402668673835612255::1708657960::0::1::::<><>::uid://c1k5m0w3r40xf::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://cy1y14inwkplb::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://bquja8jyk8kbr::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://cn674foxwedqu::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
-::res://Scenes/::1708725874
-main_scene.tscn::PackedScene::1928212561039271623::1708725874::0::1::::<><>::res://Scripts/main_scene.gd<>uid://4yweemcvdmd::::res://Assets/Pictures/black-background.png
-::res://Scripts/::1708725874
+::res://Scenes/::1708841628
+main_scene.tscn::PackedScene::1928212561039271623::1708841628::0::1::::<><>::res://Scripts/main_scene.gd<>uid://4yweemcvdmd::::res://Assets/Pictures/black-background.png
+::res://Scripts/::1708841631
 main_scene.gd::GDScript::-1::1708662237::0::1::::<>Node2D<>::
-title_screen.tscn::PackedScene::8883510527772829303::1708725874::0::1::::<><>::res://TitleScreen.gd<>uid://rnh6lodue88g::::res://Assets/Pictures/IMG_0835.jpeg<>uid://usjp4vw0wddj::::res://Assets/HelpMe.ttf
+title_screen.tscn::PackedScene::8883510527772829303::1708841631::0::1::::<><>::res://TitleScreen.gd<>uid://rnh6lodue88g::::res://Assets/Pictures/IMG_0835.jpeg<>uid://usjp4vw0wddj::::res://Assets/HelpMe.ttf

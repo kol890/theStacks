@@ -1,4 +1,5 @@
 [background arg="res://Assets/Pictures/black-background.png" fade="0.0"]
+[music path="res://Assets/Audio/Crying_moaning_ambience_2.wav" fade="0.0" volume="0.0"]
 ...
 ......
 ..............
@@ -11,8 +12,9 @@ player: And everybody's gone! I should check what time it is...
 [wait time="0.5"]
 [background arg="res://Assets/Pictures/IMG_0870.jpeg" fade="1.0"]
 glitch keeps skipping this line
-player: My computer's dead... I should use my watch.
-*introduce watch
+player: My computer's dead... I should use look around for a clock.
+[background arg="res://Assets/Pictures/IMG_0871.jpeg" fade="0.0"]
+- Check the time
 player: It's 2\:57?? The stacks were closed a long time ago. I need to go home...
 [background arg="res://Assets/Pictures/IMG_0872.jpeg" fade="0.5"]
 player: There's the exit.
@@ -21,7 +23,7 @@ player: There's the exit.
 player: What are those claw marks...
 player: I need to get out of here.
 - Leave
-	*add door sound?
+	[sound path="res://Assets/Audio/Door_handle_jiggle_checking if locked.wav" volume="0.0"]
 	It's locked.
 player: I'm locked in...
 I should look around for another way out.
