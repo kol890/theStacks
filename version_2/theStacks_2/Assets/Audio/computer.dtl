@@ -1,0 +1,7 @@
+[background arg="res://Assets/Pictures/IMG_0888.jpeg" fade="0.0"]
+- Use computer
+	[background arg="res://Assets/Pictures/IMG_0885.jpeg" fade="0.0"]
+	player: I need a password.
+	do Dialogic.start_timeline("computer")
+- Go back
+	do Dialogic.start_timeline("hallway4")

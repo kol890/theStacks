@@ -5,7 +5,7 @@ player: It worked...
 [background arg="res://Assets/Pictures/black-background.png" fade="0.0"]
 [sound path="res://Assets/Audio/Footsteps_ running.wav" volume="0.0"]
 player: I'm getting out of here!
-[music path="res://Assets/Audio/Distorted Roar.mp3" fade="5.0" volume="-5.0"]
+[music path="res://Assets/Audio/Distorted Roar.mp3" fade="5.0" volume="-5.0" loop="false"]
 [wait time="3.0"]
 Congrats, you made it out alive!
 Unlike that poor old man you selfishly left to die...

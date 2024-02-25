@@ -28,7 +28,12 @@ directories/dch_directory={
 }
 directories/dtl_directory={
 "badending": "res://badending.dtl",
+"clock_scene": "res://clock_scene.dtl",
+"computer": "res://Assets/Audio/computer.dtl",
+"exit": "res://exit.dtl",
 "good_ending": "res://Dialogic/good_ending.dtl",
+"hallway1": "res://hallway1.dtl",
+"hallway4": "res://hallway4.dtl",
 "oldman_scene": "res://Assets/Pictures/oldman_scene.dtl",
 "scene1": "res://Dialogic/scene1.dtl",
 "timeline": "res://Dialogic/timeline.dtl"

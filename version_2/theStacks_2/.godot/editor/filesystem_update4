@@ -1,6 +1,14 @@
+res://exit.dtl
 res://Scenes/main_scene.tscn
 res://Dialogic/Styles/Default_Style.tres
-res://Scripts/main_scene.gd
 res://Scripts/title_screen.tscn
-res://Dialogic/timeline.dtl
 res://addons/dialogic/Editor/Events/styles/InputFieldsStyle.tres
+res://Dialogic/Characters/roaree.dch
+res://Dialogic/good_ending.dtl
+res://clock_scene.dtl
+res://hallway4.dtl
+res://Dialogic/scene1.dtl
+res://Assets/Audio/computer.dtl
+res://hallway1.dtl
+res://Assets/Pictures/oldman_scene.dtl
+res://Dialogic/Characters/oldman.dch

@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1708841885
+::res://::1708843424
 badending.dtl::Resource::-1::1708727597::0::1::::<><>::
 icon.svg::CompressedTexture2D::2994995389195448235::1708657960::1708657960::1::::<><>::
 README.md::TextFile::-1::1708657960::0::1::::<><>::
@@ -91,8 +91,8 @@ field_text_singleline.gd::GDScript::-1::1708657960::0::1::::<>DialogicVisualEdit
 field_text_singleline.tscn::PackedScene::193280157467062682::1708657960::0::1::::<><>::res://addons/dialogic/Editor/Events/Fields/field_text_singleline.gd
 field_vector2.gd::GDScript::-1::1708657960::0::1::::<>DialogicVisualEditorField<>::
 field_vector2.tscn::PackedScene::250297584763637452::1708657960::0::1::::<><>::res://addons/dialogic/Editor/Events/Fields/field_vector2.gd<>uid://kdpp3mibml33::::res://addons/dialogic/Editor/Events/Fields/field_number.tscn
-::res://addons/dialogic/Editor/Events/styles/::1708660709
-InputFieldsStyle.tres::Theme::9138712547249545382::1708660709::0::1::::<><>::
+::res://addons/dialogic/Editor/Events/styles/::1708842831
+InputFieldsStyle.tres::Theme::9138712547249545382::1708842831::0::1::::<><>::
 ResourceMenuHover.tres::StyleBoxFlat::-1::1708657960::0::1::::<><>::
 ResourceMenuNormal.tres::StyleBoxFlat::-1::1708657960::0::1::::<><>::
 ResourceMenuPanelBackground.tres::StyleBoxFlat::209165682571293718::1708657960::0::1::::<><>::
@@ -630,19 +630,19 @@ IMG_0893.jpeg::CompressedTexture2D::6323746116692727061::1708657960::1708657960:
 IMG_9455.jpeg::CompressedTexture2D::7279321114770793662::1708657960::1708657960::1::::<><>::
 oldman_scene.dtl::Resource::-1::1708840442::0::1::::<><>::
 Screenshot 2024-02-23 at 4.59.54 PM.png::CompressedTexture2D::2036120292474231158::1708725597::1708725601::1::::<><>::
-::res://Dialogic/::1708841595
+::res://Dialogic/::1708842962
 good_ending.dtl::Resource::-1::1708841595::0::1::::<><>::
 scene1.dtl::Resource::-1::1708840159::0::1::::<><>::
-timeline.dtl::Resource::-1::1708840304::0::1::::<><>::
+timeline.dtl::Resource::-1::1708842962::0::1::::<><>::
 ::res://Dialogic/Characters/::1708841638
 oldman.dch::Resource::-1::1708840547::0::1::::<><>::
 player.dch::Resource::-1::1708840549::0::1::::<><>::
 roaree.dch::Resource::-1::1708841638::0::1::::<><>::
-::res://Dialogic/Styles/::1708841682
-Default_Style.tres::Resource/DialogicStyle::6577490214744633363::1708841682::0::1::::<><>::uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://cy1y14inwkplb::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://bquja8jyk8kbr::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
+::res://Dialogic/Styles/::1708842182
+Default_Style.tres::Resource/DialogicStyle::6577490214744633363::1708842182::0::1::::<><>::uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://cy1y14inwkplb::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://bquja8jyk8kbr::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
 Style_test.tres::Resource/Resource::8402668673835612255::1708657960::0::1::::<><>::uid://c1k5m0w3r40xf::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://cy1y14inwkplb::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://bquja8jyk8kbr::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://cn674foxwedqu::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
-::res://Scenes/::1708841628
-main_scene.tscn::PackedScene::1928212561039271623::1708841628::0::1::::<><>::res://Scripts/main_scene.gd<>uid://4yweemcvdmd::::res://Assets/Pictures/black-background.png
-::res://Scripts/::1708841631
-main_scene.gd::GDScript::-1::1708662237::0::1::::<>Node2D<>::
-title_screen.tscn::PackedScene::8883510527772829303::1708841631::0::1::::<><>::res://TitleScreen.gd<>uid://rnh6lodue88g::::res://Assets/Pictures/IMG_0835.jpeg<>uid://usjp4vw0wddj::::res://Assets/HelpMe.ttf
+::res://Scenes/::1708843282
+main_scene.tscn::PackedScene::1928212561039271623::1708843282::0::1::::<><>::res://Scripts/main_scene.gd<>uid://4yweemcvdmd::::res://Assets/Pictures/black-background.png
+::res://Scripts/::1708843285
+main_scene.gd::GDScript::-1::1708843176::0::1::::<>Node2D<>::
+title_screen.tscn::PackedScene::8883510527772829303::1708843285::0::1::::<><>::res://TitleScreen.gd<>uid://rnh6lodue88g::::res://Assets/Pictures/IMG_0835.jpeg<>uid://usjp4vw0wddj::::res://Assets/HelpMe.ttf

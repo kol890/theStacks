@@ -1,0 +1,7 @@
+[music path="res://Assets/Audio/Crying_moaning_ambience_2.wav" fade="0.0" volume="0.0"]
+[background arg="res://Assets/Pictures/IMG_0883.jpeg" fade="0.0"]
+- Go left
+	[background arg="res://Assets/Pictures/IMG_0888.jpeg" fade="0.0"]
+	do Dialogic.start_timeline("computer")
+- Go back
+	do Dialogic.start_timeline("exit")

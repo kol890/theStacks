@@ -15,3 +15,5 @@ oldman: "Soon enough, you'll come face to face with him... Then you'll understan
 leave oldman [animation="Slide Out Left"]
 He ran off. What was that about...
 set {has_talked_to_man} = true
+- Go back
+	do Dialogic.start_timeline("hallway1")
