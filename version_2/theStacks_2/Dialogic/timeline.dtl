@@ -9,7 +9,7 @@ My eyes are drooping... Should I try to finish my essay or go home?
 	[background arg="res://Assets/Pictures/black-background.png" fade="2.0"]
 	You gather your things and leave the Butler Stacks.
 	Congratulations! You unknowingly escaped certain death!
-	[signal arg=""end_game""]
+	[signal arg="end_game"]
 	[end_timeline]
 - Finish it
 player: Okay, I got this.
