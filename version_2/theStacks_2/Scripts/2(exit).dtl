@@ -1,0 +1,13 @@
+[music path="res://Assets/Audio/Crying_moaning_ambience_2.wav" fade="0.0" volume="0.0"]
+[background arg="IMG_0882.jpeg" fade="0.0"]
+- Go back
+	do Dialogic.start_timeline("clock_scene")
+- Go left
+	do Dialogic.start_timeline("hallway4")
+- Leave
+	if {has_key} == true:
+		do Dialogic.start_timeline("good_ending")
+	else:
+		[sound path="res://Assets/Audio/Door_handle_jiggle_checking if locked.wav" volume="0.0"]
+		player: Its locked.
+		do Dialogic.start_timeline("exit")
