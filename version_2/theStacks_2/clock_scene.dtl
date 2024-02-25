@@ -1,8 +1,0 @@
-[background arg="res://Assets/Pictures/IMG_0871.jpeg" fade="0.0"]
-- Go left
-	do Dialogic.start_timeline("hallway1")
-- Go back
-	do Dialogic.start_timeline("exit")
-- Check time
-	Figure out how to put time variable here
-	do Dialogic.start_timeline("clock_scene")

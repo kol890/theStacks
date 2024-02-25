@@ -27,22 +27,25 @@ directories/dch_directory={
 "roaree": "res://Dialogic/Characters/roaree.dch"
 }
 directories/dtl_directory={
-"badending": "res://badending.dtl",
-"clock_scene": "res://clock_scene.dtl",
-"computer": "res://Assets/Audio/computer.dtl",
-"exit": "res://exit.dtl",
-"good_ending": "res://Dialogic/good_ending.dtl",
-"hallway1": "res://hallway1.dtl",
-"hallway4": "res://hallway4.dtl",
-"oldman_scene": "res://Assets/Pictures/oldman_scene.dtl",
-"scene1": "res://Dialogic/scene1.dtl",
-"timeline": "res://Dialogic/timeline.dtl"
+"badending": "res://Scripts/badending.dtl",
+"bookwarm": "res://Scripts/bookwarm.dtl",
+"clock_scene": "res://Scripts/2_1(clock_scene).dtl",
+"computer": "res://Scripts/computer.dtl",
+"exit": "res://Scripts/2(exit).dtl",
+"good_ending": "res://Scripts/good_ending.dtl",
+"hallway1": "res://Scripts/2_1_1(hallway1).dtl",
+"hallway3": "res://Scripts/2_1_2(hallway3).dtl",
+"hallway4": "res://Scripts/2_2(hallway4).dtl",
+"oldman_scene": "res://Scripts/oldman_scene.dtl",
+"scene1": "res://Scripts/1(scene1).dtl",
+"timeline": "res://Scripts/Prologue.dtl"
 }
 layout/style_list=["res://Dialogic/Styles/Default_Style.tres"]
 layout/default_style="res://Dialogic/Styles/Default_Style.tres"
 variables={
 "has_key": false,
 "has_talked_to_man": false,
+"passcode": "",
 "time": 257
 }
 glossary/default_case_sensitive=true
