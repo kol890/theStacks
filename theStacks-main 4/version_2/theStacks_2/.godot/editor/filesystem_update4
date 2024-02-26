@@ -1,6 +1,12 @@
 res://Scenes/main_scene.tscn
 res://Dialogic/Styles/Default_Style.tres
-res://addons/dialogic/Editor/Events/styles/InputFieldsStyle.tres
+res://Scripts/main_scene.gd
 res://Scripts/2_1_1(hallway1).dtl
-res://Scripts/2_1_1_1(hallway3).dtl
 res://Scripts/title_screen.tscn
+res://addons/dialogic/Editor/Events/styles/InputFieldsStyle.tres
+res://Scripts/oldman_scene.dtl
+res://Scripts/bookwarm.dtl
+res://Scripts/2_1(clock_scene).dtl
+res://Scripts/2_1_1_1(hallway3).dtl
+res://Scripts/2(exit).dtl
+res://Scripts/computer.dtl

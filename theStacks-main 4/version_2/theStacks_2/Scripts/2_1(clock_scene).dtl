@@ -1,8 +1,30 @@
 [background arg="res://Assets/Pictures/IMG_0871.jpeg" fade="0.0"]
 - Go left
-	do Dialogic.start_timeline("hallway1")
+	if {has_talked_to_man} == false:
+		do Dialogic.start_timeline("oldman_scene")
+		The old man's gone
+		do Dialogic.start_timeline("clock_scene")
+	elif {chips} == true:
+		[background arg="res://Assets/Pictures/IMG_08771.jpeg" fade="0.0"]
+		I didn't know there was a bag of chips
+		- Grab chips
+			[background arg="res://Assets/Pictures/black-backgroundwithchip.jpeg" fade="0.0"]
+			Is that the key?
+			set {has_key} = true
+			do Dialogic.start_timeline("clock_scene")
+		- Leave
+			do Dialogic.start_timeline("clock_scene")
+	else:
+		[background arg="res://Assets/Pictures/IMG_0877.jpeg" fade="0.0"]
+		Nothing to explore here right now!
+		do Dialogic.start_timeline("clock_scene")
 - Go right
-	do Dialogic.start_timeline("hallway3")
+	if {collected_book} == false:
+		do Dialogic.start_timeline("hallway1")
+	else:
+		[background arg="res://Assets/Pictures/IMG_0874.jpeg" fade="0.0"]
+		Nothing to explore here anymore!
+		do Dialogic.start_timeline("clock_scene")
 - Go back
 	do Dialogic.start_timeline("exit")
 - Check time

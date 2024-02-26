@@ -9,6 +9,7 @@
 			player: *The screen turns on and a message is displayed*
 			player: Huh, it says "Remember, NO EATING IN THE LIBRARY. And if you see any trash, PICK IT UP!!"
 			player: Well thanks I guess... better go back and look for a key.
+			set {chips} = true
 			do Dialogic.start_timeline("hallway4")
 		else:
 			player: Wrong passcode

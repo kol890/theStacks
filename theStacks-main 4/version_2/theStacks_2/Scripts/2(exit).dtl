@@ -1,10 +1,10 @@
-[background arg="IMG_0882.jpeg" fade="0.0"]
+[background arg="res://Assets/Pictures/IMG_0882.jpeg" fade="0.0"]
 [music path="res://Assets/Audio/Crying_moaning_ambience_2.wav" fade="0.0" volume="0.0"]
 - Go back
 	do Dialogic.start_timeline("clock_scene")
 - Go left
 	do Dialogic.start_timeline("hallway4")
-- Leave
+- Attempt to open the door
 	if {has_key} == true:
 		do Dialogic.start_timeline("good_ending")
 	else:

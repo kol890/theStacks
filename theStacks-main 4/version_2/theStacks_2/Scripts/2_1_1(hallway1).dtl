@@ -1,13 +1,5 @@
 [background arg="res://Assets/Pictures/IMG_0874.jpeg" fade="0.0"]
 - Go left
 	do Dialogic.start_timeline("hallway3")
-- Go right
-	if {has_talked_to_man} == false:
-		do Dialogic.start_timeline("oldman_scene")
-		The old man's gone.
-		do Dialogic.start_timeline("hallway1")
-	else:
-		[background fade="0.0"]
-		label Chips pic
 - Go back
 	do Dialogic.start_timeline("clock_scene")

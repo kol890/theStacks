@@ -6,6 +6,7 @@ player: Maybe I should find a book to read!
 		[background arg="res://Assets/Pictures/IMG_0879.jpeg" fade="0.0"]
 		- Go back to your seat
 			[background arg="res://Assets/Pictures/IMG_0880.jpeg" fade="0.0"]
+			set {collected_book} = true
 			- Start reading
 				do Dialogic.start_timeline("bookwarm")
 	- Leave

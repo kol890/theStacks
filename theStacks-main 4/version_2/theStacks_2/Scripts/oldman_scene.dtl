@@ -16,4 +16,6 @@ leave oldman [animation="Slide Out Left"]
 He ran off. What was that about...
 set {has_talked_to_man} = true
 - Go back
-	do Dialogic.start_timeline("hallway1")
+	do Dialogic.start_timeline("clock_scene")
+	[signal arg="timer_start"]
+return
