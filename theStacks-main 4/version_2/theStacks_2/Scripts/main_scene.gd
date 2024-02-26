@@ -15,6 +15,7 @@ func _process(delta):
 	pass
 
 func prologue_ended():
+	my_timer.start()
 	Dialogic.timeline_ended.disconnect(prologue_ended)
 	Dialogic.timeline_ended.connect(scene1_ended)
 	Dialogic.start("scene1")
@@ -27,8 +28,6 @@ func scene1_ended():
 		
 		
 func dialogic_signal(argument:String):
-	if argument == "timer_start":
-		my_timer.start()
 	if argument == "end_game":
 		get_tree().quit() 
 		

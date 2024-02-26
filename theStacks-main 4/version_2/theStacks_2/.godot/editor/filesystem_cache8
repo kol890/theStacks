@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1708929820
+::res://::1708930006
 icon.svg::CompressedTexture2D::2994995389195448235::1708905557::1708905557::1::::<><>::
 README.md::TextFile::-1::1708905557::0::1::::<><>::
 TitleScreen.gd::GDScript::-1::1708905557::0::1::::<>Control<>::
@@ -641,15 +641,15 @@ Screenshot 2024-02-25 at 10.12.09 PM.png::CompressedTexture2D::213884142348986
 oldman.dch::Resource::-1::1708905557::0::1::::<><>::
 player.dch::Resource::-1::1708905557::0::1::::<><>::
 roaree.dch::Resource::-1::1708920492::0::1::::<><>::
-::res://Dialogic/Styles/::1708928098
-Default_Style.tres::Resource/DialogicStyle::6577490214744633363::1708928098::0::1::::<><>::uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://cy1y14inwkplb::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://bquja8jyk8kbr::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
+::res://Dialogic/Styles/::1708930044
+Default_Style.tres::Resource/DialogicStyle::6577490214744633363::1708930044::0::1::::<><>::uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://cy1y14inwkplb::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://bquja8jyk8kbr::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
 Style_test.tres::Resource/Resource::8402668673835612255::1708905557::0::1::::<><>::uid://c1k5m0w3r40xf::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://cy1y14inwkplb::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://bquja8jyk8kbr::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://cn674foxwedqu::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons (2)/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>res://addons/dialogic/Resources/dialogic_style.gd
-::res://Scenes/::1708929820
-main_scene.tscn::PackedScene::1928212561039271623::1708929820::0::1::::<><>::res://Scripts/main_scene.gd<>uid://4yweemcvdmd::::res://Assets/Pictures/black-background.png
-::res://Scripts/::1708929866
+::res://Scenes/::1708930154
+main_scene.tscn::PackedScene::1928212561039271623::1708930154::0::1::::<><>::res://Scripts/main_scene.gd<>uid://4yweemcvdmd::::res://Assets/Pictures/black-background.png
+::res://Scripts/::1708930154
 1(scene1).dtl::Resource::-1::1708905557::0::1::::<><>::
 2(exit).dtl::Resource::-1::1708929384::0::1::::<><>::
-2_1(clock_scene).dtl::Resource::-1::1708929820::0::1::::<><>::
+2_1(clock_scene).dtl::Resource::-1::1708929904::0::1::::<><>::
 2_1_1(hallway1).dtl::Resource::-1::1708928174::0::1::::<><>::
 2_1_1_1(hallway3).dtl::Resource::-1::1708929218::0::1::::<><>::
 2_2(hallway4).dtl::Resource::-1::1708905557::0::1::::<><>::
@@ -657,8 +657,8 @@ badending.dtl::Resource::-1::1708926313::0::1::::<><>::
 bookwarm.dtl::Resource::-1::1708928654::0::1::::<><>::
 computer.dtl::Resource::-1::1708929551::0::1::::<><>::
 good_ending.dtl::Resource::-1::1708905557::0::1::::<><>::
-IMG_08772.jpeg::::-1::1708929866::0::0::::<><>::
-main_scene.gd::GDScript::-1::1708928098::0::1::::<>Node2D<>::
+IMG_08772.jpeg::::-1::0::0::0::::<><>::
+main_scene.gd::GDScript::-1::1708930044::0::1::::<>Node2D<>::
 oldman_scene.dtl::Resource::-1::1708928242::0::1::::<><>::
 Prologue.dtl::Resource::-1::1708905557::0::1::::<><>::
-title_screen.tscn::PackedScene::8883510527772829303::1708929761::0::1::::<><>::res://TitleScreen.gd<>uid://rnh6lodue88g::::res://Assets/Pictures/IMG_0835.jpeg<>uid://usjp4vw0wddj::::res://Assets/HelpMe.ttf
+title_screen.tscn::PackedScene::8883510527772829303::1708930154::0::1::::<><>::res://TitleScreen.gd<>uid://rnh6lodue88g::::res://Assets/Pictures/IMG_0835.jpeg<>uid://usjp4vw0wddj::::res://Assets/HelpMe.ttf
