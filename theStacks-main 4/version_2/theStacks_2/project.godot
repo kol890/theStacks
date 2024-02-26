@@ -34,7 +34,7 @@ directories/dtl_directory={
 "exit": "res://Scripts/2(exit).dtl",
 "good_ending": "res://Scripts/good_ending.dtl",
 "hallway1": "res://Scripts/2_1_1(hallway1).dtl",
-"hallway3": "res://Scripts/2_1_2(hallway3).dtl",
+"hallway3": "res://Scripts/2_1_1_1(hallway3).dtl",
 "hallway4": "res://Scripts/2_2(hallway4).dtl",
 "oldman_scene": "res://Scripts/oldman_scene.dtl",
 "scene1": "res://Scripts/1(scene1).dtl",

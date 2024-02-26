@@ -1,0 +1,14 @@
+[background arg="res://Assets/Pictures/IMG_0876.jpeg" fade="0.0"]
+player: Maybe I should find a book to read!
+- Look left
+	[background arg="res://Assets/Pictures/IMG_0878.jpeg" fade="0.0"]
+	- Grab book
+		[background arg="res://Assets/Pictures/IMG_0879.jpeg" fade="0.0"]
+		- Go back to your seat
+			[background arg="res://Assets/Pictures/IMG_0880.jpeg" fade="0.0"]
+			- Start reading
+				do Dialogic.start_timeline("bookwarm")
+	- Leave
+		do Dialogic.start_timeline("hallway3")
+- Go back
+	do Dialogic.start_timeline("hallway1")
