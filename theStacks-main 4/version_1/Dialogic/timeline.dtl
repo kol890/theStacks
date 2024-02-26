@@ -1,0 +1,24 @@
+[background arg="res://Assets/Pictures/IMG_0870.jpeg" fade="1.0"]
+set {time} = 257
+join player 1
+player: Wow, I've been writing this essay for like five hours. Im exhausted...
+player: I should go home and sleep, but I’m so close to finishing…
+My eyes are drooping... Should I try to finish my essay or go home?
+- Go home
+	[background arg="res://Assets/Pictures/black-background.png" fade="2.0"]
+	You gather your things and leave the Butler Stacks.
+	Congratulations! You unknowingly escaped certain death!
+	[end_timeline]
+- Finish it
+player: Okay, I got this.
+*insert typing game, waiting for laptop asset
+[background arg="res://Assets/Pictures/black-background.png" fade="2.0"]
+[background arg="res://Assets/Pictures/IMG_0870.jpeg" fade="2.0"]
+Oh no...
+[wait time="2.0" hide_text="false"]
+[background arg="res://Assets/Pictures/black-background.png" fade="2.0"]
+[background arg="res://Assets/Pictures/IMG_0870.jpeg" fade="2.0"]
+I cant keep my eyes open...
+[wait time="2.0" hide_text="false"]
+[background arg="res://Assets/Pictures/black-background.png" fade="2.5"]
+[wait time="5.0"]
