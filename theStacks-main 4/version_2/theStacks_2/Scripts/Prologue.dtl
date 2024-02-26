@@ -1,5 +1,5 @@
 [music path="res://Assets/Audio/Air conditioner_Ambient.wav" fade="0.0" volume="0.0"]
-[background arg="res://Assets/Pictures/IMG_0870.jpeg" fade="1.0"]
+[background arg="res://Assets/Pictures/computer_on.png" fade="1.0"]
 set {time} = 257
 join player 1
 player: Wow, I've been writing this essay for like five hours. Im exhausted...

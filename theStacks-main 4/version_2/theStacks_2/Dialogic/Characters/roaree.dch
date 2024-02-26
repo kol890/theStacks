@@ -24,6 +24,24 @@
 "scale": 1.0,
 "scene": ""
 },
+"run": {
+"export_overrides": {
+"image": "\"res://Assets/Pictures/roaree_running.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"shh": {
+"export_overrides": {
+"image": "\"res://Assets/Pictures/shh.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1.0,
+"scene": ""
+},
 "temp_roaree": {
 "export_overrides": {
 "image": "\"res://Assets/Pictures/Screenshot 2024-02-23 at 4.59.54 PM.png\""

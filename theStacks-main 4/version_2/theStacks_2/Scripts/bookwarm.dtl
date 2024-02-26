@@ -1,14 +1,11 @@
-[background arg="res://Assets/Pictures/IMG_9455.jpeg" fade="0.0"]
-player: This book seems interesting
-[background arg="res://Assets/Pictures/IMG_9455.jpeg" fade="0.0"]
-Look at all these gibberish
 [background arg="res://Assets/Pictures/bw1.png" fade="0.0"]
-Ohhh there are even bugs coming out of them
-Look like good protein sources!
-Let me taste one...
+[sound volume="0.0"]
+player: Gross, there's bedbugs in it!
+player: Actually, I'm kind of hungry...
+player: Let me taste one...
 [background arg="res://Assets/Pictures/bw2.png" fade="0.0"]
-AWEFUL!!
-Let me just get rid of them!
+player: AWEFUL!!
+player: I should just squash them!
 [background arg="res://Assets/Pictures/bw3.png" fade="0.0"]
 [wait time="1.5"]
 [background arg="res://Assets/Pictures/bw4.png" fade="0.0"]
@@ -16,6 +13,6 @@ Let me just get rid of them!
 [background arg="res://Assets/Pictures/bw5.png" fade="0.0"]
 [wait time="1.5"]
 [background arg="res://Assets/Pictures/IMG_9455.jpeg" fade="0.0"]
-Oh look! There are words on them!
-1754...
+player: Hmm...there's numbers. Could one of these be the code?
+player: 1754... Or there's also 185056... Or 1794...
 do Dialogic.start_timeline("clock_scene")

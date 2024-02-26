@@ -1,8 +1,15 @@
 [background arg="res://Assets/Pictures/IMG_0876.jpeg" fade="0.0"]
-player: Maybe I should find a book to read!
+if {has_talked_to_man} == false:
+	player: Nothing but old books here.
+	- Go back.
+		do Dialogic.start_timeline("hallway1")
+player: Maybe I should look through these books for a clue.
 - Look left
 	[background arg="res://Assets/Pictures/IMG_0878.jpeg" fade="0.0"]
 	- Grab book
+		[sound path="res://Assets/Audio/Stinger.wav" volume="0.0"]
+		[background arg="res://Assets/Pictures/roaree_eye.jpeg" fade="0.0"]
+		[wait time="0.5"]
 		[background arg="res://Assets/Pictures/IMG_0879.jpeg" fade="0.0"]
 		- Go back to your seat
 			[background arg="res://Assets/Pictures/IMG_0880.jpeg" fade="0.0"]

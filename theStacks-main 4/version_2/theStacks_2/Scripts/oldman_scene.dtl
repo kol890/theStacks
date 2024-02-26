@@ -1,4 +1,4 @@
-[background arg="res://Assets/Pictures/IMG_0877.jpeg" fade="0.0"]
+[background arg="res://Assets/Pictures/IMG_08771.png" fade="0.0"]
 [music path="res://Assets/Audio/Crying_moaning_ambience_2.wav" fade="0.0" volume="0.0"]
 join oldman 3 [animation="Instant In Or Out"]
 player: Woah, who's this old guy? Maybe he can help me...
@@ -13,7 +13,8 @@ player: "No, no, I don't believe that. This is just the stacks... M-Maybe you're
 oldman: "You think I'm the confused one? I've spent 20 years searching for an escape, but there's nothing besides endless books and indecipherable codes. No hope. No salvation. We're doomed, you ignorant child. Doomed!"
 oldman: "Soon enough, you'll come face to face with him... Then you'll understand. There's no hope. Save yourself and hide before its too late!"
 leave oldman [animation="Slide Out Left"]
-He ran off. What was that about...
+player: He ran off. What was that about...
+player: He mentioned books and codes. Maybe I can find a clue in one of these books...
 set {has_talked_to_man} = true
 - Go back
 	do Dialogic.start_timeline("clock_scene")
