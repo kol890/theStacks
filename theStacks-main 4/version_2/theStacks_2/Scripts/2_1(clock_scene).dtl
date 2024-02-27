@@ -5,7 +5,7 @@
 		The old man's gone.
 		do Dialogic.start_timeline("clock_scene")
 	elif {chips} == true:
-		[background arg="res://Assets/Pictures/IMG_08771.jpeg" fade="0.0"]
+		[background arg="res://Assets/Pictures/IMG_08771.png" fade="0.0"]
 		I didn't know there was a bag of chips
 		- Grab chips
 			[background arg="res://Assets/Pictures/black-backgroundwithchip.jpeg" fade="0.0"]

@@ -1,4 +1,4 @@
-[background arg="res://Assets/Pictures/IMG_08771.png" fade="0.0"]
+[background arg="res://Assets/Pictures/IMG_0877.jpeg" fade="0.0"]
 [music path="res://Assets/Audio/Crying_moaning_ambience_2.wav" fade="0.0" volume="0.0"]
 join oldman 3 [animation="Instant In Or Out"]
 player: Woah, who's this old guy? Maybe he can help me...

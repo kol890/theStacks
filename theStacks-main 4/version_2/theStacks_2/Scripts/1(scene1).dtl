@@ -3,23 +3,23 @@
 ...
 ......
 ..............
-[background arg="res://Assets/Pictures/IMG_0870.jpeg" fade="2.0"]
+[background arg="res://Assets/Pictures/computer_on.png" fade="2.0"]
 player: Shoot, I fell asleep!
 [background arg="res://Assets/Pictures/IMG_0871.jpeg" fade="0.0"]
 [wait time="1.0"]
 [background arg="res://Assets/Pictures/IMG_0872.jpeg" fade="0.0"]
 player: And everybody's gone! I should check what time it is...
 [wait time="0.5"]
-[background arg="res://Assets/Pictures/IMG_0870.jpeg" fade="1.0"]
+[background arg="res://Assets/Pictures/computer_off.png" fade="1.0"]
 glitch keeps skipping this line
 player: My computer's dead... I should look around for a clock.
 [background arg="res://Assets/Pictures/IMG_0871.jpeg" fade="0.0"]
 - Check the time
 player: It's 2\:57?? The stacks were closed a long time ago. I need to go home...
-[background arg="res://Assets/Pictures/IMG_0872.jpeg" fade="0.5"]
+[background arg="res://Assets/Pictures/door_far.jpeg" fade="0.5"]
 player: There's the exit.
 - Go straight
-[background arg="res://Assets/Pictures/IMG_0882.jpeg" fade="0.0"]
+[background arg="res://Assets/Pictures/door_scratch.png" fade="0.0"]
 player: What are those claw marks...
 player: I need to get out of here.
 - Attempt to open the door

@@ -14,11 +14,11 @@ My eyes are drooping... Should I try to finish my essay or go home?
 - Finish it
 player: Okay, I got this.
 [background arg="res://Assets/Pictures/black-background.png" fade="2.0"]
-[background arg="res://Assets/Pictures/IMG_0870.jpeg" fade="2.0"]
+[background arg="res://Assets/Pictures/computer_on.png" fade="2.0"]
 Oh no...
 [wait time="1.5" hide_text="false"]
 [background arg="res://Assets/Pictures/black-background.png" fade="2.0"]
-[background arg="res://Assets/Pictures/IMG_0870.jpeg" fade="2.0"]
+[background arg="res://Assets/Pictures/computer_on.png" fade="2.0"]
 I can't keep my eyes open...
 [wait time="2.0" hide_text="false"]
 [background arg="res://Assets/Pictures/black-background.png" fade="2.5"]
