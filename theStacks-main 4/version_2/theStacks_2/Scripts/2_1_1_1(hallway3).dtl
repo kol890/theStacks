@@ -1,4 +1,3 @@
-[sound path="res://Assets/Audio/Crying_moaning_ambience_2.wav" volume="0.0"]
 [background arg="res://Assets/Pictures/IMG_0876.jpeg" fade="0.0"]
 if {has_talked_to_man} == false:
 	player: Nothing but old books here.

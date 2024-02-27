@@ -1,5 +1,4 @@
 [background arg="res://Assets/Pictures/bw1.png" fade="0.0"]
-[sound path="res://Assets/Audio/Crying_moaning_ambience_2.wav" volume="0.0"]
 player: Ew, it has a bedbug infestation!
 player: Expect nothing less from Butler I guess...
 player: I should squash them.
