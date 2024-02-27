@@ -1,3 +1,4 @@
+[sound path="res://Assets/Audio/Crying_moaning_ambience_2.wav" volume="0.0"]
 [background arg="res://Assets/Pictures/IMG_0871.jpeg" fade="0.0"]
 - Go left
 	if {has_talked_to_man} == false:
@@ -6,16 +7,18 @@
 		do Dialogic.start_timeline("clock_scene")
 	elif {chips} == true:
 		[background arg="res://Assets/Pictures/IMG_08771.png" fade="0.0"]
-		I didn't know there was a bag of chips
+		player: I didn't notice this bag of chips.
 		- Grab chips
 			[background arg="res://Assets/Pictures/black-backgroundwithchip.jpeg" fade="0.0"]
-			Why is there a key in here...?
 			set {has_key} = true
+			player: Why is there a key in here...?
+			player: Whatever. Hopefully, this will open the door.
+			[sound path="res://Assets/Audio/Keys_pick up.wav" volume="0.0"]
 			do Dialogic.start_timeline("clock_scene")
 		- Leave
 			do Dialogic.start_timeline("clock_scene")
 	else:
-		[background arg="res://Assets/Pictures/IMG_0877.jpeg" fade="0.0"]
+		[background arg="res://Assets/Pictures/IMG_08771.png" fade="0.0"]
 		Nothing more to explore here.
 		do Dialogic.start_timeline("clock_scene")
 - Go right
@@ -27,6 +30,3 @@
 		do Dialogic.start_timeline("clock_scene")
 - Go back
 	do Dialogic.start_timeline("exit")
-- Check time
-	Figure out how to put time variable here
-	do Dialogic.start_timeline("clock_scene")

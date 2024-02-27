@@ -10,10 +10,6 @@ func _ready():
 	pass # Replace with function body.
 
 
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta):
-	pass
-
 func prologue_ended():
 	my_timer.start()
 	Dialogic.timeline_ended.disconnect(prologue_ended)
@@ -30,7 +26,6 @@ func scene1_ended():
 func dialogic_signal(argument:String):
 	if argument == "end_game":
 		get_tree().quit() 
-		
 		
 
 

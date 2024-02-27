@@ -1,17 +1,21 @@
 [background arg="res://Assets/Pictures/bw1.png" fade="0.0"]
-[sound volume="0.0"]
-player: Gross, there's bedbugs in it!
-player: Actually, I'm kind of hungry...
-player: Let me taste one...
+[sound path="res://Assets/Audio/Crying_moaning_ambience_2.wav" volume="0.0"]
+player: Ew, it has a bedbug infestation!
+player: Expect nothing less from Butler I guess...
+player: I should squash them.
+[sound path="res://Assets/Audio/woosh_5.wav" volume="0.0"]
 [background arg="res://Assets/Pictures/bw2.png" fade="0.0"]
-player: AWEFUL!!
-player: I should just squash them!
+[wait time="1.5"]
+[sound path="res://Assets/Audio/woosh.wav" volume="0.0"]
 [background arg="res://Assets/Pictures/bw3.png" fade="0.0"]
 [wait time="1.5"]
+[sound path="res://Assets/Audio/woosh.wav" volume="0.0"]
 [background arg="res://Assets/Pictures/bw4.png" fade="0.0"]
 [wait time="1.5"]
+[sound path="res://Assets/Audio/woosh_5.wav" volume="0.0"]
 [background arg="res://Assets/Pictures/bw5.png" fade="0.0"]
 [wait time="1.5"]
+[sound path="res://Assets/Audio/woosh.wav" volume="0.0"]
 [background arg="res://Assets/Pictures/IMG_9455.jpeg" fade="0.0"]
 player: Hmm...there's numbers. Could one of these be the code?
 player: 1754... Or there's also 185056... Or 1794...

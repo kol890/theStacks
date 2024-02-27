@@ -1,5 +1,4 @@
 [background arg="res://Assets/Pictures/black-background.png" fade="0.0"]
-*clock chime sound*
 [music path="res://Assets/Audio/Butler Nightmare Main Theme.mp3" fade="10.0" volume="0.0"]
 player: Oh no, its 3 AM!
 player: W-what's that noise?
@@ -7,7 +6,7 @@ player: W-what's that noise?
 [wait time="9.0"]
 [sound path="res://Assets/Audio/Monster_Roar_4.wav" volume="0.0"]
 join roaree 2 [animation="Bounce In" length="0"]
-[sound path="res://Assets/Audio/Stinger.wav" volume="0.0"]
+[sound path="res://Assets/Audio/Stinger.wav" volume="5.0"]
 player: "R-roaree??"
 player: "Wait please don't eat me!"
 leave roaree [animation="Slide Out Down" length="0"]
@@ -15,3 +14,4 @@ leave roaree [animation="Slide Out Down" length="0"]
 You died! \:)
 Maybe you shouldn't have stayed past closing... ;)
 But don't worry, your remains are safe inside Roaree! \:D
+[end_timeline]

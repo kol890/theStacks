@@ -1,4 +1,4 @@
-[background arg="res://Assets/Pictures/IMG_0882.jpeg" fade="0.0"]
+[background arg="res://Assets/Pictures/door_scratch.png" fade="0.0"]
 [sound path="res://Assets/Audio/Door_squeeky_2.wav" volume="0.0"]
 [wait time="1.0"]
 player: It worked...
@@ -13,4 +13,6 @@ Its safe to say you'd never be stepping foot inside Butler again...
 [background arg="res://Assets/Pictures/IMG_0835.jpeg" fade="0.0"]
 [sound path="res://Assets/Audio/Monster_Roar_4.wav" volume="3.0"]
 Though, its looming presence would haunt you each and everyday...
-[wait time="8.0"]
+[wait time="6.0"]
+join roaree (shh) 1 [animation="Fade In Up" length="4"]
+[wait time="5.0"]

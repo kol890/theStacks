@@ -1,19 +1,20 @@
+[sound path="res://Assets/Audio/Crying_moaning_ambience_2.wav" volume="0.0"]
 [background arg="res://Assets/Pictures/IMG_0888.jpeg" fade="0.0"]
 - Use computer
 	[background arg="res://Assets/Pictures/IMG_0885.jpeg" fade="0.0"]
 	oldman (temp_oldman): Salvation lies within...
 	player: Oh... a password.
-	player: Wait... But who was speaking?
+	player: Wait... But who said that?
 	- Attempt passcode
-		[text_input var="passcode"]
+		[text_input text="" var="passcode"]
 		if {passcode} == "1754":
 			player: *The screen turns on and a message is displayed*
-			player: Huh, it says "Remember, NO EATING IN THE LIBRARY. And if you see any trash, PICK IT UP!!"
-			player: Well thanks I guess... better go back and look for a key.
+			player: Huh, it says, "Remember, NO EATING IN THE LIBRARY, and take your trash WITH YOU."
+			player: Well thanks I guess... I can't access anything else.
 			set {chips} = true
 			do Dialogic.start_timeline("hallway4")
 		else:
-			player: Wrong passcode
+			player: Wrong passcode.
 			join roaree (roaree2) 2 [animation="Instant In Or Out" length="0" wait="true"]
 			[sound path="res://Assets/Audio/Monster_Roar_2.wav" volume="0.0"]
 			[wait time="0.2"]
